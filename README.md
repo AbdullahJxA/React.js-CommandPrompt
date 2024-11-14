@@ -6,5 +6,5 @@
 - Feel free to open issues or submit pull requests if you'd like to contribute to this project!
 # Contact 📬
 - For any inquiries or support, please contact [JxA](https://jxa.world).
--# This is my first try in React, If you have any suggestions feel free to contact me on here [Discord](https://discord.gg/gi)
 Happy coding! 🎉
+### This is my first try in React, If you have any suggestions feel free to contact me on here [Discord](https://discord.gg/gi)
